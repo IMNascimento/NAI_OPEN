@@ -1,3 +1,5 @@
 .env
+.venv/
+venv/
 audio/input/fala.wav
 core/data/df_rent.csv
