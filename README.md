@@ -1,19 +1,25 @@
-# NAI – Projeto de Inteligência Artificial Nascimento
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://github.com/IMNascimento/DVR/assets/28989407/84028706-5a9e-4d00-af2c-2935e5604035" alt="Nascimento" width="200"></a>
+  <br>
+  NAI
+  <br>
+</h1>
 
 ## Visão geral
 
-NAI (Nascimento Artificial Intelligence) é um assistente avançado de IA projetado para processar e analisar dados usando a biblioteca Pandas do Python. O projeto apresenta uma estrutura robusta para garantir escalabilidade, facilidade de manutenção e organização, tornando-o adequado para aplicações de grande escala. Inclui funcionalidades para gravação de voz, transcrição, análise de dados e respostas interativas.
+NAI (Nascimento Assistente Intelligence) é um assistente avançado de IA projetado para processar e analisar dados usando a biblioteca Pandas do Python. O projeto apresenta uma estrutura robusta para garantir escalabilidade, facilidade de manutenção e organização, tornando-o adequado para aplicações de grande escala. Inclui funcionalidades para gravação de voz, transcrição, análise de dados e respostas interativas.
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão_geral)
 - [Recursos](#features)
-- [Estrutura do Projeto](#estrutura do projeto)
-- [Configuração e instalação](#configuração e instalação)
+- [Estrutura do Projeto](#estrutura_do_projeto)
+- [Configuração e instalação](#configuração_e_instalação)
 - [Uso](#uso)
-   - [Executando o AI Assistant](#running-the-ai-assistant)
+   - [Executando o AI Assistant](#running_the_ai_assistant)
    - [Configuração](#configuração)
-   - [Comandos de voz](#comandos de voz)
+   - [Comandos de voz](#comandos_de_voz)
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos)
