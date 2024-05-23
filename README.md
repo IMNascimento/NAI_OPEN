@@ -6,7 +6,7 @@ NAI (Nascimento Artificial Intelligence) é um assistente avançado de IA projet
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão_geral)
 - [Recursos](#features)
 - [Estrutura do Projeto](#estrutura do projeto)
 - [Configuração e instalação](#configuração e instalação)
